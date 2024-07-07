@@ -1,5 +1,12 @@
-# Hello World! I'm Liz!
+# <p align="center">Hello World! I'm Liz!</p>
 German-American 19 year old (not for long!) getting back into old hobbies
 
 
-yo
+## About Me 
+- Into pentesting, web-development, malware, and networking
+- The struggle is real
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>

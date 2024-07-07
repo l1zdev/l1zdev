@@ -1,5 +1,5 @@
 # <p align="center">Hello World! I'm Liz!</p>
-German-American 19 year old (not for long!) getting back into old hobbies
+<p align="center">German-American 19 year old (not for long!) getting back into old hobbies</p>
 
 
 ## About Me 

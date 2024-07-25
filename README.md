@@ -6,6 +6,7 @@
 - Into pentesting, web-development, malware, and networking
 - JavaScript, Python, (learning) C++, HTML/CSS, also working with Raspberry Pis
 - The struggle is real
+- coffee addict 
 
 <p align="center"> 
   Visitor count<br>

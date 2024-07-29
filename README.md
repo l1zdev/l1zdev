@@ -3,11 +3,11 @@
         <img src="https://img.shields.io/badge/@l1z-dev-black?style=flat-square" alt="@l1zdev">
     </a>
     <a target="_blank" rel="noopener noreferrer" href="#">
-        <img src="https://img.shields.io/badge/region-bavaria-red?style=flat-square
+        <img src="https://img.shields.io/badge/region-bavaria-red?style=flat-square&label=region
 " alt="region">
     </a>
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/l1zdev?tab=followers">
-        <img src="https://komarev.com/ghpvc/?username=l1zdev&label=Guests&color=000000&style=for-the-badge" alt="guests">
+        <img src="https://komarev.com/ghpvc/?username=l1zdev&label=Guests&color=000000&style=flat-square" alt="guests">
     </a>
     
 </div>

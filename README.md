@@ -4,7 +4,7 @@
 
 ## About Me 
 - Into pentesting, fullstack web-development, malware, software-development,  and networking
-- JavaScript, Python, HTML/CSS, (learning) C++
+- JavaScript, Python, HTML/CSS, go
 - Raspberry PIs are love
 - The struggle is real
 - Coffee addict 

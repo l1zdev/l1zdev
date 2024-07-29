@@ -1,6 +1,6 @@
 <div style="width: 100%;" align="center">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/l1zdev">
-        <img src="https://img.shields.io/badge/label-message-black?style=flat-square" alt="@l1zdev">
+        <img src="https://img.shields.io/badge/@l1z-dev-black?style=flat-square" alt="@l1zdev">
     </a>
 </div>
 

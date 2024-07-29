@@ -1,3 +1,9 @@
+<div style="width: 100%;" align="center">
+    <a target="_blank" rel="noopener noreferrer" href="[https://github.com/NobleMajo](https://github.com/l1zdev/l1zdev)">
+        ![Static Badge](https://img.shields.io/badge/label-message-black?style=flat-square)
+    </a>
+</div>
+
 # <p align="center">Hello World! I'm Liz!</p>
 <p align="center">An about to be 20 yo American-German self tought programmer</p>
 

@@ -32,7 +32,7 @@
 
 <h1 align="left"><u>Contact me</u></h1>
 <table>
-    <tbody>>
+    <tbody>
     <tr>
         <td width="92px">
                 <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" />

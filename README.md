@@ -6,11 +6,13 @@
         <img src="https://komarev.com/ghpvc/?username=l1zdev&label=Guests&color=000000&style=flat-square" alt="guests">
     </a>
 </div>
-
-# <p align="center">Hello World! I'm Liz!</p>
-<p align="center">An about to be 20 yo American-German self tought programmer</p>
-
-
+<p align="center">Self tought software engineer & pentester from somewhere in Germany</p>
+<img class="cropimg" src="https://github.com/l1zdev/l1zdev/blob/main/github-banner.jpeg" alt="my github bsnnrt" style="width: 100%;" />
+<div style="width: 100%;" align="center">
+    <a target="_blank" rel="noopener noreferrer" href="#">
+        <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="Discord" />
+    </a>
+</div>
 ## About Me 
 - Into pentesting, fullstack web-development, malware, fullstack software-development,  and networking
 - JavaScript, Python, HTML/CSS, go(lang), c++

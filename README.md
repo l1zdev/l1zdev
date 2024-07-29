@@ -25,7 +25,7 @@
 - 🖤 Into pentesting, fullstack web-development, malware, software engineering (cli tools & librarys..)<br>
 - ⛧ Using <i><b>JavaScript/TypeScript, Python, HTML/CSS, Go, C/C++</b></i><br>
 - ⛧ Also using Raspberry PIs<br>
-- ✉ Reach me <b><a href="https://github.com/l1zdev#contact-me">here></a></b><br>
+- ✉ Reach me <b><a href="https://github.com/l1zdev#contact-me">here</a></b><br>
 - 🌟 My projects are displayed <a href="https://github.com/l1zdev?tab=repositories">here</a>, leave a <b>STAR</b>
 - 🔗 Follow me for <i><b>FREE</b></i>
 </p>

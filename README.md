@@ -20,8 +20,8 @@
     </u>
 </h1>
 
-<img align="left" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1zdev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="l1zdev" />
-<p align="right">
+<img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1zdev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="l1zdev" />
+<p align="left">
 - 🖤 Into pentesting, fullstack web-development, malware, software engineering (cli tools & librarys..)<br>
 - ⛧ Using <i><b>JavaScript/TypeScript, Python, HTML/CSS, Go, C/C++</b></i><br>
 - ⛧ Also using Raspberry PIs are love<br>

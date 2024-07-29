@@ -7,8 +7,7 @@
 " alt="region">
     </a>
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/l1zdev?tab=followers">
-        <img src="[https://img.shields.io/badge/region-bavaria-red?style=flat-square
-](https://komarev.com/ghpvc/?username=l1zdev&label=Guests&color=black&style=for-the-badge)" alt="guests">
+        <img src="https://komarev.com/ghpvc/?username=l1zdev&label=Guests&color=black&style=for-the-badge" alt="guests">
     </a>
     
 </div>

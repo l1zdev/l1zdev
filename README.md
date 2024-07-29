@@ -5,7 +5,6 @@
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/l1zdev?tab=followers">
         <img src="https://komarev.com/ghpvc/?username=l1zdev&label=Guests&color=000000&style=flat-square" alt="guests">
     </a>
-    
 </div>
 
 # <p align="center">Hello World! I'm Liz!</p>

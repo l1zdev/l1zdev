@@ -22,7 +22,7 @@
 
 <img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=l1zdev&show_icons=true&locale=en&layout=compact&theme=onedark" alt="l1zdev" />
 <p align="left">
-- 🖤 Into pentesting, fullstack web-development, malware, software engineering<br>
+- 🖤 Into pentesting, fullstack web-development, malware, software engineering but mainly focusing on prentesting<br>
 - ⛧ Using <i><b>JavaScript/TypeScript, Python, HTML/CSS, Go, C/C++</b></i><br>
 - ⛧ Also using Raspberry PIs<br>
 - ✉ Reach me <b><a href="https://github.com/l1zdev#contact-me">here</a></b><br>
@@ -44,8 +44,6 @@
         <td width="92px">
                 <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" />
             </td>
-            <td width="100px" align="center"><a href="https://discord.gg/8DXfeZ3jqS" target="blank">Discord<br><i>(server)</i></a></td>
-            <td>Join my discord server</td>
     </tr>
     </tbody>
 </table>
@@ -54,7 +52,6 @@
 <p align="center">
     <a href="https://github.com/l1zdev?tab=repositories">projects</a> | 
     <a href="https://github.com/l1zdev#contect-me">contact</a> | 
-    <a href="https://discord-quotes.neocities.org/">current site (WIP)</a>
 </p>
 <hr>
 

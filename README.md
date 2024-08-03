@@ -40,11 +40,6 @@
             <td width="100px" align="center"><a href="https://discord.com/users/1208859771453571142" target="blank">Discord<br><i>(direct)</i></a></td>
             <td>Reach me here if you want to get in touch.</td>
     </tr>
-    <tr>
-        <td width="92px">
-                <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" />
-            </td>
-    </tr>
     </tbody>
 </table>
 <br><br>
